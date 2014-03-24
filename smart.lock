@@ -11,7 +11,7 @@
       "iron-router": {
         "git": "https://github.com/EventedMind/iron-router",
         "branch": "dev",
-        "commit": "4c009c81621caac5de9a25cc0a6e998e7edf23f3"
+        "commit": "3cfa4c618f6d6dffd209b4c0cb0f1d37c5223c09"
       },
       "blaze-layout": {
         "git": "https://github.com/EventedMind/blaze-layout.git",
